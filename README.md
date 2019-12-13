@@ -18,3 +18,6 @@ Final Datasets
 
 Code Implementation
 - Use the 'Retrieving Tweet Dictionary for Coachella Artists' jupyter file as example of how to access the full tweet objects for all tweets sent during a specified artist's set time at Coachella.
+
+
+Link to weekend 2 tweets here: https://github.com/Charrison620/Coachella-2019-Weekend-2-Tweets
