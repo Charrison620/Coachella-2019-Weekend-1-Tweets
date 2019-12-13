@@ -1,4 +1,4 @@
-# Coachella-Weekend-1-Tweets
+# Coachella 2019 - Weekend 1 Tweets
 
 Project Scope: 
 - We hope to identify the reactions of the people to the lineup of the artists at the music festival, i.e., the artists that were liked and who were not liked much so that the music festival can improve its lineup for the next year. We also hope that this dataset can be used for identifying the different elements of a music festival that people get excited enough to tweet about, either because they were successful or because they needed improvement. Also, we hope that this dataset can identify reasons why people attended the music festival, which could be used for future marketing efforts.
